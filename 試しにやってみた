@@ -1,0 +1,56 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "toc_visible": true,
+      "authorship_tag": "ABX9TyMqGwuxSXkRiTtky62A3Fcp",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/2026-minorikurashige-maker/internship202608/blob/main/%E8%A9%A6%E3%81%97%E3%81%AB%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 111
+        },
+        "id": "Va1C9z8gptHI",
+        "outputId": "0268179b-a8e5-411a-cb8a-66140374da4e"
+      },
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "invalid character '！' (U+FF01) (1037128720.py, line 1)",
+          "traceback": [
+            "\u001b[0;36m  File \u001b[0;32m\"/tmp/ipykernel_5668/1037128720.py\"\u001b[0;36m, line \u001b[0;32m1\u001b[0m\n\u001b[0;31m    <h1>はじめまして！</h1>\u001b[0m\n\u001b[0m              ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid character '！' (U+FF01)\n"
+          ]
+        }
+      ],
+      "source": [
+        "<h1>はじめまして！</h1>"
+      ]
+    }
+  ]
+}
